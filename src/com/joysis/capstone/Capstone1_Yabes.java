@@ -28,7 +28,7 @@ public class Capstone1_Yabes {
 
         if (ussdCode.isEmpty() || !ussdCode.equals("*143#")) {
             System.out.println("Invalid USSD Code. Exiting...");
-            System.exit(0); // Exit System
+            System.exit(0); // Exit
         }
 
     }
