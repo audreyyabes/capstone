@@ -21,6 +21,7 @@ public class Capstone1_Yabes {
     }
 
     public static void ussdCode() {
+        System.out.println("-- Load Registration App --");
         // validate USSD Code
         System.out.println("Dial *143# to access Smart Services");
         System.out.print("Enter USSD Code: ");
